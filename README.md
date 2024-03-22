@@ -2,13 +2,11 @@
 
 I'm a software developer, entrepreneur, and passionate advocate for neurodiversity. As a neurodivergent individual and cancer survivor, my journey has been one of resilience, determination, and an unwavering commitment to making a positive impact in the world of technology.
 
-## 🌟 About Me
+As a neurodivergent individual, I understand the challenges and unique perspectives that come with neurodiversity. My life's mission is to embrace the strengths of the neurodiverse community and create technology that helps us overcome challenges, fostering innovation, creativity, and problem-solving in ways that might otherwise be overlooked.
 
-- **Neurodiversity Advocacy**: As a neurodivergent individual, I understand the challenges and unique perspectives that come with neurodiversity. My life's mission is to embrace the strengths of the neurodiverse community and create technology that helps us overcome challenges, fostering innovation, creativity, and problem-solving in ways that might otherwise be overlooked.
+I'm proud to share that I have been in remission from Stage 4 Diffuse Large B Cell Lymphoma since February 27, 2024. This experience taught me invaluable lessons about resilience, self-advocacy, and the importance of prioritizing mental and physical well-being.
 
-- **Cancer Survivor**: I'm proud to share that I have been in remission from Stage 4 Diffuse Large B Cell Lymphoma since February 27, 2024. This experience taught me invaluable lessons about resilience, self-advocacy, and the importance of prioritizing mental and physical well-being.
-
-## 🔭 My Current Focus
+## 🔭 Current Projects & Focus
 
 - **ServiceNow Development**: With extensive experience as a Senior ServiceNow Developer, I specialize in enhancing organizational efficiency and streamlining processes within the ServiceNow platform. My technical mastery spans across various domains, including ITSM, SecOps, CSM, and HR services.
 
