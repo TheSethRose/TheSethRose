@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Seth!
 
-I'm a software developer, entrepreneur, and passionate advocate for neurodiversity. As a neurodivergent individual and cancer survivor, my journey has been one of resilience, determination, and an unwavering commitment to making a positive impact in the world of technology.
+As a neurodivergent software developer, entrepreneur, and passionate advocate for the neurodiverse community, you'll likely find me on 𝕏 (Twitter), discussing the latest advancements in AI, machine learning, and their potential to revolutionize industries. 
 
-As a neurodivergent individual, I understand the challenges and unique perspectives that come with neurodiversity. My life's mission is to embrace the strengths of the neurodiverse community and create technology that helps us overcome challenges, fostering innovation, creativity, and problem-solving in ways that might otherwise be overlooked.
+My secret weapons are my ADHD-fueled brain, a steady stream of caffeine, and an undying love for solving problems that make mere mortals cry. 
 
-I'm proud to share that I have been in remission from Stage 4 Diffuse Large B Cell Lymphoma since February 27, 2024. This experience taught me invaluable lessons about resilience, self-advocacy, and the importance of prioritizing mental and physical well-being.
+When I'm not battling corporate inefficiencies or integrating systems that were never meant to talk to each other, I'm probably sharpening my skills in full stack development & #buildinpublic - because why not add a few more programming languages to the mix?
+
+As a proud cancer survivor in remission from Stage 4 Diffuse Large B-Cell Lymphoma since February 27, 2024, I've learned invaluable lessons about resilience, self-advocacy, and the importance of prioritizing mental and physical well-being. 
 
 ## 🔭 Current Projects & Focus
 
