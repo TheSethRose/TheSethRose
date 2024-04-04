@@ -12,11 +12,11 @@ As a proud cancer survivor in remission from Stage 4 Diffuse Large B-Cell Lympho
 
 - **ServiceNow Development**: With extensive experience as a Senior ServiceNow Developer, I specialize in enhancing organizational efficiency and streamlining processes within the ServiceNow platform. My technical mastery spans across various domains, including ITSM, SecOps, CSM, and HR services.
 
+- **Personal Website**: I'm currently working on revamping my personal website, [sethrose.dev](http://www.sethrose.dev), to run on GitHub Pages. This platform will serve as a central hub for showcasing my projects, sharing insights, and engaging with the tech community.
+
 - **Creative AI Applications**: I'm fascinated by the potential of Large Language Models (LLMs) and Artificial Intelligence (AI) in driving innovation and efficiency through creative software solutions. I'm actively exploring and developing projects that leverage these cutting-edge technologies to solve real-world problems and push the boundaries of what's possible.
 
 - **Time Capsule**: An open-source, self-hosted AI assistant that empowers users with perfect memory by continuously capturing and storing digital activities, including screen recordings and typed text. It enables instant search and retrieval of any information seen or typed on the device.
-
-- **Personal Website**: I'm currently working on revamping my personal website, [seth-rose.com](http://www.seth-rose.com), to run on GitHub Pages. This platform will serve as a central hub for showcasing my projects, sharing insights, and engaging with the tech community.
 
 - **Upcoming Open Source Projects**: I have several exciting open source projects in the pipeline that leverage LLMs in unique and creative ways to enhance efficiency and drive innovation. Stay tuned for updates on these cutting-edge developments!
 
