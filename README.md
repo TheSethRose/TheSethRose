@@ -1,5 +1,4 @@
 # Hi there! I'm Seth 👋
-
 ## Senior ServiceNow Developer | AI Enthusiast | Neurodiversity Advocate
 
 I'm a neurodivergent software developer and entrepreneur, passionate about leveraging technology to solve complex problems and drive innovation.
