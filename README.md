@@ -15,5 +15,5 @@
 ### 📫 Connect with me
 
 - 🌐 Website: http://www.sethrose.dev
-- 𝕏 (formally Twitter): https://x.com/TheSethRose
+- 𝕏 (formally Twitter): [https://x.com/TheSethRose](https://x.com/intent/follow?screen_name=TheSethRose)
 - 💼 LinkedIn: https://www.linkedin.com/in/sethlrose/
