@@ -3,7 +3,6 @@
 ## Techno-Accelerationist | Futurist | AI-First Thought Leader
 
 - 🔭 A passionate advocate for AI integration in daily life and software solutions.
-- 🌱 Committed to leveraging advanced technologies for scalable, future-proof software solutions.
 - 🧠 Often the go-to problem solver, consistently emerging as a thought leader in complex technical scenarios.
 - 🚀 Successfully delivering cutting-edge projects that push technological boundaries and create measurable impact.
 - 🎓 Prioritizes flexibility, innovation, and AI-driven continuous learning in himself and his team.
@@ -27,7 +26,7 @@
 
 ### 📫 Connect with Me
 
-- 🌐 Website: [http://www.sethrose.dev](http://www.sethrose.dev)
-- 🦋 Bluesky: [https://bsky.app/profile/sethrose.dev](https://bsky.app/profile/sethrose.dev)
-- 𝕏 (formally Twitter): [Follow @TheSethRose](https://x.com/intent/follow?screen_name=TheSethRose)
-- 💼 LinkedIn: [https://www.linkedin.com/in/sethlrose/](https://www.linkedin.com/in/sethlrose/)
+- 🌐: [http://www.sethrose.dev](http://www.sethrose.dev)
+- 🦋: [https://bsky.app/profile/sethrose.dev](https://bsky.app/profile/sethrose.dev)
+- 𝕏: [Follow @TheSethRose](https://x.com/intent/follow?screen_name=TheSethRose)
+- 💼: [https://www.linkedin.com/in/sethlrose/](https://www.linkedin.com/in/sethlrose/)
