@@ -25,8 +25,4 @@
 ![TheSethRose's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSethRose&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-
-- 🌐: [http://www.sethrose.dev](http://www.sethrose.dev)
-- 🦋: [https://bsky.app/profile/sethrose.dev](https://bsky.app/profile/sethrose.dev)
-- 𝕏: [Follow @TheSethRose](https://x.com/intent/follow?screen_name=TheSethRose)
-- 💼: [https://www.linkedin.com/in/sethlrose/](https://www.linkedin.com/in/sethlrose/)
+[http://links.sethrose.dev](http://links.sethrose.dev?ref=github)
