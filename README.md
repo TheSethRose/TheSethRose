@@ -25,4 +25,4 @@
 ![TheSethRose's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSethRose&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-[http://links.sethrose.dev](http://links.sethrose.dev?ref=github)
+[https://sethrose.dev/](https://sethrose.dev/)
