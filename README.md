@@ -1,4 +1,4 @@
-![TheSethRose's GitHub Banner](https://raw.githubusercontent.com/TheSethRose/TheSethRose/main/banner.png)
+![TheSethRose's GitHub Banner](./banner.png)
 
 - 🔭 A passionate advocate for AI integration in daily life and software solutions.
 - 🧠 Often the go-to problem solver, consistently emerging as a thought leader in complex technical scenarios.
