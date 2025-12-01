@@ -16,9 +16,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AI/ML](https://img.shields.io/badge/-AI/ML-333333?style=flat&logo=ai)
 
-### 📈 GitHub Stats
-
-![TheSethRose's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSethRose&show_icons=true&theme=radical)
-
 ### 📫 Connect with Me
 [https://sethrose.dev/](https://sethrose.dev/)
