@@ -1,5 +1,3 @@
-![TheSethRose's GitHub Banner](./banner.png)
-
 - 🔭 A passionate advocate for AI integration in daily life and software solutions.
 - 🧠 Often the go-to problem solver, consistently emerging as a thought leader in complex technical scenarios.
 - 🚀 Successfully delivering cutting-edge projects that push technological boundaries and create measurable impact.
